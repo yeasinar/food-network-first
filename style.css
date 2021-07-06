@@ -4,9 +4,12 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
+
 .frist-topik{
     display: flex;
-    background-color: white;
 }
 #widht{
     width: 50%;
@@ -23,4 +26,8 @@ h1{
     border: 5px;
     text-decoration: none;
     background-color: orange;
+    border-radius: 5px;
+}
+.backgu{
+    background-image: url(image/7.png);
 }
