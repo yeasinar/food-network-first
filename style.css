@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.frist-topik{
+    display: flex;
+    background-color: white;
+}
+#widht{
+    width: 50%;
+}
+.content{
+    margin-top: 150px;
+    text-align: center;
+}
+.link-button{
+  
+   font-weight: 700;
+    color: white;
+    padding: 5px 20px;
+    border: 5px;
+    text-decoration: none;
+    background-color: orange;
+}
