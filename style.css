@@ -31,3 +31,22 @@ h2{
 .backgu{
     background-image: url(image/7.png);
 }
+.text-aline{
+    background-color: white;
+    text-align: center;
+}
+.eastin{
+    background-color: white;
+}
+.pik{
+    width: 100%;
+}
+.exporience{
+    width: 30%;
+    margin-right: 5px;
+    margin-left: 25px;
+    padding: 10px;
+
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
