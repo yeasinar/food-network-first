@@ -37,6 +37,7 @@ h2{
 }
 .eastin{
     background-color: white;
+    margin-bottom: 50px;
 }
 .pik{
     width: 100%;
@@ -49,4 +50,19 @@ h2{
 
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+}
+.amazine{
+    background-color: white;
+}
+.attubate{
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.large{
+    margin-right: 50px;
+    margin-left: 180px;
+}.last{
+    background-color: black;
+    color: white;
+    text-align: center;
 }
